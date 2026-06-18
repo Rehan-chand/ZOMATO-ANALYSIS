@@ -2,111 +2,92 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing Zomato restaurant data to uncover meaningful business insights using data analysis and visualization techniques.
+This project analyzes Zomato restaurant data to generate meaningful business insights using data analysis and visualization techniques.
 
-The analysis helps understand:
+The analysis includes:
 
-* Restaurant distribution
+* Restaurant performance
 * Customer ratings
 * Online delivery trends
 * Cost analysis
 * Popular cuisines
-* Location-based performance
+* Location insights
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze restaurant performance using data.
-* Identify trends in ratings and pricing.
-* Explore customer preferences.
-* Build interactive dashboards for better decision-making.
+* Analyze restaurant performance using data
+* Identify trends in ratings and pricing
+* Explore customer preferences
+* Build interactive dashboards
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI** – Dashboard & Visualization
-* **Excel** – Data Cleaning & Preparation
-* **SQL** – Data Querying & Analysis
-* **GitHub** – Project Hosting
+* Power BI
+* Tableau
+* Excel
+* SQL
+* GitHub
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```plaintext
 ZOMATO-ANALYSIS/
 │
 ├── Dataset/
-│   └── zomato_data.csv
-│
 ├── PowerBI/
-│   └── zomato_dashboard.pbix
-│
+├── Tableau/
 ├── SQL/
-│   └── queries.sql
-│
-├── Images/
-│   └── dashboard.png
-│
 └── README.md
 ```
 
 ---
 
-## 📊 Key Analysis Performed
+## 📊 Key Analysis
 
-* Total Restaurants Analysis
-* Average Ratings Analysis
-* Online Delivery Availability
-* Cost for Two Comparison
+* Total Restaurants
+* Average Ratings
+* Online Delivery Analysis
+* Cost Comparison
 * Top Cities Analysis
 * Cuisine Distribution
-* Customer Preference Trends
 
 ---
 
 ## 📈 Dashboard Insights
 
-* Restaurants with higher ratings attract more customers.
-* Online delivery significantly impacts customer engagement.
-* Pricing and location influence restaurant popularity.
+* Created interactive dashboards using **Power BI** and **Tableau**
+* Identified customer behavior and restaurant trends
+* Compared pricing and rating patterns
+* Generated data-driven insights for decision-making
 
 ---
 
 ## 🚀 How to Use
 
-1. Download the repository.
-2. Open the Power BI file.
-3. Load the dataset if required.
-4. Explore dashboards and insights.
-
----
-
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot inside the **Images** folder and update below:
-
-```md
-![Dashboard](Images/dashboard.png)
-```
+1. Download or clone this repository
+2. Open Power BI or Tableau dashboard
+3. Load dataset if required
+4. Explore insights
 
 ---
 
 ## 🔮 Future Improvements
 
-* Add predictive analytics
-* Create advanced KPI dashboards
-* Deploy interactive reports online
+* Advanced KPI dashboard
+* Predictive analytics
+* Interactive reporting
 
 ---
 
 ## 👨‍💻 Author
 
 **Rehan Chand**
-BCA Graduate | Data Analyst Learner
+BCA Graduate | Data Analyst
 
----
-
-⭐ If you found this project useful, consider giving it a star.
+⭐ If you found this project useful, give it a Star.
