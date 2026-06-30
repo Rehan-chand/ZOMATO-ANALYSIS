@@ -1,93 +1,64 @@
-# 🍽️ ZOMATO ANALYSIS
+# Zomato-PowerBI-Dashboard
+1. Project Title
+   
+Zomato Restaurant Analysis | End-to-End Data Analytics Project
 
-## 📌 Project Overview
+2. Short Description / Purpose
+This project aims to analyze the Zomato restaurant dataset to uncover valuable business insights about restaurant performance, customer preferences, cuisines, ratings, online delivery services, and geographical trends.
+The project demonstrates an end-to-end data analytics workflow using multiple tools to transform raw data into meaningful visualizations and actionable insights.
 
-This project analyzes Zomato restaurant data to generate meaningful business insights using data analysis and visualization techniques.
+3. Tech Stack
+SQL – Data cleaning and exploratory data analysis
+Excel – Data processing and dashboard creation
+Power BI – Interactive business intelligence dashboard
+Tableau – Data visualization and storytelling
+GitHub – Project documentation and portfolio management
 
-The analysis includes:
+4. Data Source
+Dataset: Zomato Restaurant Dataset
+Source: Publicly available dataset (Kaggle/Zomato dataset)
+Data Includes:
+Restaurant Name
+Country & City
+Cuisines
+Ratings
+Average Cost for Two
+Online Delivery
+Table Booking
+Restaurant Type
 
-* Restaurant performance
-* Customer ratings
-* Online delivery trends
-* Cost analysis
-* Popular cuisines
-* Location insights
+5. Features / Highlights
 
----
+📊 Business Problem
+Analyze restaurant data to identify customer preferences, market trends, and factors influencing restaurant success.
 
-## 🎯 Objectives
+🔍 Key Analysis
+Restaurant distribution across countries and cities
+Cuisine-wise performance analysis
+Customer rating analysis
+Online delivery and table booking trends
+Average cost analysis
+Restaurant growth patterns
 
-* Analyze restaurant performance using data
-* Identify trends in ratings and pricing
-* Explore customer preferences
-* Build interactive dashboards
+📈 Dashboard Features
+Interactive filters and slicers
+KPI cards and summary metrics
+Dynamic charts and visualizations
+Comparative analysis across locations
+User-friendly dashboard design
 
----
+💡 Business Insights
+Identified the most popular cuisines and restaurant locations.
+Analyzed customer satisfaction through ratings.
+Evaluated the impact of online delivery and table booking services.
+Highlighted pricing trends and restaurant distribution patterns.
+Provided data-driven insights for business decision-making
 
-## 🛠️ Tools & Technologies
+6.Screenshots/Demos
+Show what the dashboard looks like-
 
-* Power BI
-* Tableau
-* Excel
-* SQL
-* GitHub
+Example 1-Power BI Dashboard-![Power BI Dasboard Preview](https://github.com/Rehan-chand/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
----
+Example 2-Excel Dashboard-![Excel Dashboard Preview](https://github.com/Rehan-chand/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Excel%20Dashboard.png)
 
-## 📂 Project Structure
-
-```plaintext
-ZOMATO-ANALYSIS/
-│
-├── Dataset/
-├── PowerBI/
-├── Tableau/
-├── SQL/
-└── README.md
-```
-
----
-
-## 📊 Key Analysis
-
-* Total Restaurants
-* Average Ratings
-* Online Delivery Analysis
-* Cost Comparison
-* Top Cities Analysis
-* Cuisine Distribution
-
----
-
-## 📈 Dashboard Insights
-
-* Created interactive dashboards using **Power BI** and **Tableau**
-* Identified customer behavior and restaurant trends
-* Compared pricing and rating patterns
-* Generated data-driven insights for decision-making
-
----
-
-## 🚀 How to Use
-
-1. Download or clone this repository
-2. Open Power BI or Tableau dashboard
-3. Load dataset if required
-4. Explore insights
-
----
-
-## 🔮 Future Improvements
-
-* Advanced KPI dashboard
-* Predictive analytics
-* Interactive reporting
-
----
-
-## 👨‍💻 Author
-
-**Rehan Chand**
-BCA Graduate | Data Analyst
-
-⭐ If you found this project useful, give it a Star.
+Example 3-Tableau Dashboard-![Tableau Dashboard Preview](https://github.com/Rehan-chand/Zomato-PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Tableau%20Dashboard.png)
